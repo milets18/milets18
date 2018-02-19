@@ -1,2 +1,2 @@
-# milets18
-4TH SIGKDD WORKSHOP ON  MINING AND LEARNING FROM TIME SERIES
+# The 4th SIGKDD Workshop on Mining and Learning from Time Series
+
